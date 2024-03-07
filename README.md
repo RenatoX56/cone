@@ -8,7 +8,7 @@
 ### Built With
 
 * [Lua](https://lua.org/)
-* [CodeWalker][https://getbootstrap.com](https://github.com/dexyfex/CodeWalker)
+* [CodeWalker](https://github.com/dexyfex/CodeWalker)
 
 Free to use lol
 
