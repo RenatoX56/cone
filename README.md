@@ -8,14 +8,9 @@
 ### Built With
 
 * [Lua](https://lua.org/)
-* [CodeWalker]([https://getbootstrap.com](https://github.com/dexyfex/CodeWalker))
-
-<p align="right">(<a href="#top">Volver arriba</a>)</p>
-
+* [CodeWalker][https://getbootstrap.com](https://github.com/dexyfex/CodeWalker)
 
 Free to use lol
-
-<p align="right">(<a href="#top">Volver arriba</a>)</p>
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/RenatoX56/POPLIFERP_2K22.svg?style=for-the-badge
