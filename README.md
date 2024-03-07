@@ -1,4 +1,4 @@
-# cone
+# A cone ...
 <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -24,16 +24,3 @@ Free to use lol
 [issues-url]: https://github.com/RenatoX56/POPLIFERP_2K22/issues
 [license-shield]: https://img.shields.io/github/license/RenatoX56/POPLIFERP_2K22.svg?style=for-the-badge
 [license-url]: https://github.com/RenatoX56/POPLIFERP_2K22/blob/master/LICENSE.txt
-
-<div align="center">
-  <a href="https://github.com/RenatoX56/POPLIFERP_2K22">
-    <img src="https://popliferp.es/images/logos/logotipo_secundario_blanco.png" alt="Logo">
-  </a>
-</div>
-
-
-<div align="center">
-  <a href="https://github.com/RenatoX56/POPLIFERP_2K22">
-    <img src="https://popliferp.es/images/logos/logotipo_secundario_blanco.png" alt="Logo">
-  </a>
-</div>
