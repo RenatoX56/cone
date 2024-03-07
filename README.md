@@ -9,6 +9,8 @@
 
 Free to use lol
 
+Drag & use
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/RenatoX56/POPLIFERP_2K22.svg?style=for-the-badge
 [contributors-url]: https://github.com/RenatoX56/POPLIFERP_2K22/graphs/contributors
