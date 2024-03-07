@@ -1,7 +1,7 @@
 # A cone ...
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][https://github.com/RenatoX56/cone]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
